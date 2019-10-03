@@ -1,4 +1,7 @@
+<div style="background-color: black; color: white; padding: 25px; border-radius: 4px">
+
 # **Equity Curation Model (ECM)**
+
 
 ### **Problem Summary**
 Over the last two decades, the internet has hollowed out the legacy media business: print, radio and tv &#8722; no sector has been immune. 
@@ -84,3 +87,7 @@ Any platform that implements the ECM will need to advertise, much like any other
 - content creators are incentivized to promote the platform to attract Bookmark revenue as well as to increase the overall pot
 
 This is an important contrast to previous models, because it demonstrates the value in curators and creators being truly *invested* in a platform, as opposed to navigating the arcane guidelines of a closed network, just hoping to be compensated.
+
+#### Scaling
+Any app using the ECM will require a high level of user interaction. The Ethereum mainnet is ill-suited to this sort of model and some sort of Layer-2 scaling technology will be required. 
+</div>

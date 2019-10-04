@@ -60,13 +60,13 @@ Half of the content pot is distributed based on the voting results of the equity
 
 In addition, creators are limited to one post every 6 hours, preventing them from flooding the channel with content and dominating the feed &#8722; and potentially breaking the fee model.
 
-> See the revenue diagram <a href="#ref">here</a>.
-
 *Bookmarks*
 
 Half of the content pot is distributed based on the bookmarks a creator receives in a period, calculated as a percentage of total bookmarks in the channel.
 
 **This is an incentive to produce quality content, but also an incentive for creators to promote themselves and the platform**.
+
+> See the revenue diagram <a href="#ref">here</a>.
 
 #### More on Token Bonding Curves
 

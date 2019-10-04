@@ -14,7 +14,7 @@ It's become clear that it's very difficult for creators to capture some or any o
 ### **Possible Approaches**
 In an effort to solve some of these digital challenges, **the media industry has been excited about the possibility of directly compensating creators** using micropayments. The ability to transfer value on Ethereum with minimal friction and cost has brought that prospect closer to reality. 
 
-On the subject of curating quality, several projects have proposed models that require users to "stake" something of value to back up their claims. Again, Ethereum has made this significantly easier.
+On the subject of curating quality, several projects have proposed **models that require users to "stake" something of value to back up their claims**. Again, Ethereum has made this significantly easier.
 
 But users and publishers won't willingly change their behavior just because some technical feature is now feasible. Struggling digital media **publishers need to build new, superior models where *they* can be the aggregators.** 
 
@@ -40,9 +40,9 @@ The subscription model isn't new. What's new in the ECM is the equity component.
 #### Equity Ownership
 Investing in equity may seem similar to staking models that some have proposed for curating content and generating reputation. The difference with the ECM is that participants are trying to *build* value, not preserve it. 
 
-As part of that process, token equity owners are expected to be `active curators`. In fact, they are heavily incentivized to do so. If an equity owner doesn't vote on at least 25% of all content posted in a `fee period`, they are not eligible to collect from the `channel dividends`. 
+As part of that process, token equity owners are expected to be `active curators`. In fact, they are heavily incentivized to do so. If an equity owner doesn't vote on at least 25% of all content posted in a `fee period`, they are not eligible to collect from the channel's `dividends`. `Voting` is as simple as upvoting or downvoting. 
 
-The 25% threshold could be lowered as the popularity of a channel grows (through some governance process yet to be defined). `Voting` is as simple as upvoting or downvoting. 
+The 25% threshold could be lowered as the popularity of a channel grows (through some governance process yet to be defined). 
 
 Equity dividends are calculated and made available for distribution every fee period. The `yield` &#8722; calculated by dividing the annualized dividend by the current bonding curve token price &#8722; is **a good metric to use to determine how the community feels about the stability and growth prospects of a channel**. I.e., if a token is trading at 2x the yield of a similar channel, the market is suggesting that the dividend and growth potential of the lesser valued channel are less certain. Think of it as a **community sentiment metric**.
 
@@ -59,6 +59,8 @@ Half of the content pot is distributed based on the voting results of the equity
 **In this construct, *most* creators will be paid**. But the desire to be in the top 80% in a period should encourage creators to maintain and improve the quality of content.
 
 In addition, creators are limited to one post every 6 hours, preventing them from flooding the channel with content and dominating the feed &#8722; and potentially breaking the fee model.
+
+> See the revenue diagram <a href="#ref">here</a>.
 
 *Bookmarks*
 
@@ -88,3 +90,8 @@ This is an important contrast to previous models, because it demonstrates the va
 
 #### Scaling
 Any app using the ECM will require a high level of user interaction. The Ethereum mainnet is ill-suited to this sort of model and some sort of Layer-2 scaling technology will be required. 
+<div id="ref"/>
+
+# **Reference**
+
+![how-it-works](./how-it-works.png)

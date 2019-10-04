@@ -78,7 +78,7 @@ The algorithmic supply-to-price relationship rewards early believers and advocat
 
 
 #### More on Bookmarks
-With 25% of the total channel pot and 50% of the creator pot at stake, bookmarks are essential to any creator’s revenue stream. Bookmark rewards are the incentive for creators to create communities around their channels, to build their followerships and to draw in new users into the ecosystem. The opportunity for outsized bookmark revenue (“making it big”) alongside steady rewards for reliable, quality content (top 80% of posts), make for a **balanced revenue and incentive model for creators**.
+With 25% of the total channel pot and 50% of the creator pot at stake, bookmarks are essential to any creator’s revenue stream. Bookmark rewards are the incentive for creators to create communities around their channels, to build their followerships and to draw new users into the ecosystem. The opportunity for outsized bookmark revenue (“making it big”) alongside steady rewards for reliable, quality content (top 80% of posts), make for a **balanced revenue and incentive model for creators**.
 
 #### Attracting Users
 

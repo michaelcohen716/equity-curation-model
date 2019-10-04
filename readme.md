@@ -25,7 +25,7 @@ Token economics won't work when distribution is arbitrary or centralized. And le
 
 ### **Introducing the ECM**
 
-Decentralized protocols offer a potential solution in an industry that is searching for a new business model and a reformed power structure. The ECM is a proposed model for **balancing the relationship between platforms and publishers**, while **elevating the overall quality of digital media**. 
+Decentralized protocols offer a potential solution in an industry that is searching for a new business model and a reformed power structure. The ECM is a proposed infrastructure model for **balancing the relationship between platforms and publishers**, while **elevating the overall quality of digital media**. 
 
 Specifically, the ECM aims to:
 - use equity ownership to incentivize **consistent and reliable participation** in content curation

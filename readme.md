@@ -3,7 +3,7 @@
 
 Author: 
 Michael J. Cohen
-[@mjayceee](twitter.com/mjayceee)
+[@mjayceee](https://twitter.com/mjayceee)
 
 October, 2019
 

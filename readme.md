@@ -1,6 +1,12 @@
 
 # **Equity Curation Model (ECM)**
 
+Author: 
+Michael J. Cohen
+[@mjayceee](twitter.com/mjayceee)
+
+October, 2019
+
 ### **Problem Summary**
 Over the last two decades, **the internet has hollowed out the legacy media business**: print, radio and tv &#8722; no sector has been immune. 
 
@@ -33,7 +39,7 @@ Specifically, the ECM aims to:
 - implement a mechanism for indirect governance by **rewarding quality content but avoiding censorship**
 
 #### Channels
-The building blocks of the ECM are `Content Channels`: feeds of content &#8722; not unlike Subreddits &#8722; dedicated to a subject, community, author or anything else. For a small flat fee, users can subscribe to the `collective` and access all the content within.
+The building blocks of the ECM are `Content Channels`: feeds of content &#8722; not unlike Subreddits &#8722; dedicated to a subject, community, author or anything else. For a small flat fee, users can subscribe to the collective and access all the content within.
 
 The subscription model isn't new. What's new in the ECM is the equity component. **Each channel has its own capital structure defined by a `Token Bonding Curve` contract**.  The bonding curve rewards the early believers in a channel as the equity token price increases linearly with demand. Equity owners own the rights to 50% of the subscription revenue of the channel.
 
